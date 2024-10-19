@@ -9,8 +9,8 @@
     },
     "Hero": {
       "title": "毛绒猫的卖鸭小铺",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
-      "cta": "开始使用"
+      "description": "毛绒绒的猫和毛茸茸的鸭~绒绒猫的卖鸭小铺开张啦~~。",
+      "cta": "欢迎光临"
     },
     "Features": {
       "title": "主要功能",
@@ -74,7 +74,7 @@
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
+      "title": "快来寻找属于你的那只毛绒小鸭",
       "imageAlt": "ScriptCraft界面"
     }
   },
