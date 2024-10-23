@@ -13,40 +13,40 @@
       "cta": "欢迎光临"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "主营项目",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "鸭鸭当铺",
+        "description": "挑选你心仪的鸭鸭带回家吧！"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "绒鸭护理",
+        "description": "咕噜咕噜~洗香香鸭"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "变装游戏",
+        "description": "超多可爱的小衣服供您选购！"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "AI照相",
+        "description": "生成鸭的专属AI场景照片。"
       }
     },
     "Testimonials": {
-      "title": "用户评价",
+      "title": "买家评价",
       "testimonial1": {
-        "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "name": "阿巴阿巴",
+        "role": "家庭主妇",
+        "content": "毛绒猫的卖鸭小铺让我买到了心仪的鸭子"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "学生",
+        "content": "中国的鸭子好爱~"
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "name": "毛绒鸭",
+        "role": "鸭",
+        "content": "抗议，凭什么卖鸭子啊啊啊啊！"
       }
     },
     "Header": {
